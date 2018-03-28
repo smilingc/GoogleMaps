@@ -1,27 +1,27 @@
 [
   {
-    "lat": 53.817680, 
-    "lng": -1.537657,
-    "description": "<p>Oakwood text</p>"
+    "lat": 40.723831, 
+    "lng": -73.983689,
+    "description": "<p>523 E 6th Street</p>"
   },
   {
-    "lat": 53.790123,
-    "lng": -1.53243,
-     "description": "lorem ipsum"
+    "lat": 40.720380,
+    "lng": -73.984296,
+     "description": "28-30 Clinton Street"
   },
   {
-    "lat": 53.756745,
-    "lng": -1.5309087,
-     "description": "lorem ipsum"
+    "lat": 40.724878,
+    "lng": -73.978021,
+     "description": "134-136 Ave C"
   },
   {
-    "lat": 53.6474675,
-    "lng": -1.49564554,
-     "description": "lorem ipsum"
+    "lat": 40.727165,
+    "lng": -73.979445,
+     "description": "169 Ave B"
   },
   {
-    "lat": 53.69123456,
-    "lng": -1.6545466,
-    "description": "lorem ipsum"
+    "lat": 40.727262,
+    "lng": -73.979307,
+    "description": "173 Ave B"
   }        
 ]
