@@ -23,5 +23,100 @@
     "lat": 40.727262,
     "lng": -73.979307,
     "description": "173 Ave B"
-  }        
+  },  
+  {
+    "lat": 40.727897,
+    "lng": -73.981878,
+    "description": "295 E 10th Street"
+  },
+    {
+    "lat": 40.726171, 
+    "lng": -73.977883,
+    "description": "<p>391 E 10th Street</p>"
+  },
+  {
+    "lat": 40.733274,
+    "lng": -73.992807,
+     "description": "539-41 E 11th Street"
+  },
+  {
+    "lat": 40.724878,
+    "lng": -73.978021,
+     "description": "13-15 Clinton Street"
+  },
+  {
+    "lat": 40.719864,
+    "lng": -73.984862,
+     "description": "45 Clinton Street"
+  },
+  {
+    "lat": 40.721188,
+    "lng": -73.985242,
+    "description": "165-167 Suffolk Street"
+  },  
+  {
+    "lat": 40.724172,
+    "lng": -73.979653,
+    "description": "218 E 7th Street"
+  },       
+    {
+    "lat": 40.723349, 
+    "lng": -73.983301,
+    "description": "<p>230 E 4th Street</p>"
+  },
+  {
+    "lat": 40.721415,
+    "lng": -73.980243,
+     "description": "280 E 3rd Street"
+  },
+  {
+    "lat": 40.729799,
+    "lng": -73.982429,
+     "description": "419 E 12th Street"
+  },
+  {
+    "lat": 40.720599,
+    "lng": -73.978495,
+     "description": "17 Ave D"
+  },
+  {
+    "lat": 40.727262,
+    "lng": -73.979307,
+    "description": "173 Ave B"
+  },  
+  {
+    "lat": 40.727897,
+    "lng": -73.981878,
+    "description": "295 E 10th Street"
+  },
+    {
+    "lat": 40.726171, 
+    "lng": -73.977883,
+    "description": "<p>391 E 10th Street</p>"
+  },
+  {
+    "lat": 40.733274,
+    "lng": -73.992807,
+     "description": "539-41 E 11th Street"
+  },
+  {
+    "lat": 40.724878,
+    "lng": -73.978021,
+     "description": "13-15 Clinton Street"
+  },
+  {
+    "lat": 40.719864,
+    "lng": -73.984862,
+     "description": "45 Clinton Street"
+  },
+  {
+    "lat": 40.721188,
+    "lng": -73.985242,
+    "description": "165-167 Suffolk Street"
+  },  
+  {
+    "lat": 40.724172,
+    "lng": -73.979653,
+    "description": "218 E 7th Street"
+  },  
 ]
