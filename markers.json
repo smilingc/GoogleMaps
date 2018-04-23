@@ -80,43 +80,73 @@
      "description": "17 Ave D"
   },
   {
-    "lat": 40.727262,
-    "lng": -73.979307,
-    "description": "173 Ave B"
+    "lat": 40.725507,
+    "lng": -73.991428,
+    "description": "166-8 E 2nd Street"
   },  
   {
-    "lat": 40.727897,
-    "lng": -73.981878,
-    "description": "295 E 10th Street"
+    "lat": 40.720716,
+    "lng": -73.983029,
+    "description": "168 Attorney Street"
   },
     {
-    "lat": 40.726171, 
-    "lng": -73.977883,
-    "description": "<p>391 E 10th Street</p>"
+    "lat": 40.727191, 
+    "lng": -73.979353,
+    "description": "<p>171 Ave B</p>"
   },
   {
-    "lat": 40.733274,
-    "lng": -73.992807,
-     "description": "539-41 E 11th Street"
+    "lat": 40.732095,
+    "lng": -73.995674,
+     "description": "327-9 E 8th Street"
   },
   {
-    "lat": 40.724878,
-    "lng": -73.978021,
-     "description": "13-15 Clinton Street"
+    "lat": 40.725112,
+    "lng": -73.982659,
+     "description": "523 E 6th Street"
   },
   {
-    "lat": 40.719864,
-    "lng": -73.984862,
-     "description": "45 Clinton Street"
+    "lat": 40.724861,
+    "lng": -73.979070,
+     "description": "334-336 E 8th Street"
   },
   {
-    "lat": 40.721188,
-    "lng": -73.985242,
-    "description": "165-167 Suffolk Street"
+    "lat": 40.721858,
+    "lng": -73.983813,
+    "description": "8-12 Ave B"
   },  
   {
-    "lat": 40.724172,
-    "lng": -73.979653,
-    "description": "218 E 7th Street"
+    "lat": 40.723559,
+    "lng": -73.987630,
+    "description": "195-99 E 2nd Street"
   },  
+  {
+    "lat": 40.713753, 
+    "lng": -73.986974,
+    "description": "<p>204 Clinton Street <br>(Homeless Housing Sponsor)</p>"
+  },
+  {
+    "lat": 40.724272,
+    "lng": -73.982590,
+     "description": "535 E 5th Street (New Construction)"
+  },
+  {
+    "lat": 40.722057,
+    "lng": -73.982150,
+     "description": "228 E 3rd Street (New Construction)"
+  },
+  {
+    "lat": 40.722408,
+    "lng": -73.981779,
+     "description": "229 E 3rd Street (New Construction)"
+  },
+  {
+    "lat": 40.721504,
+    "lng": -73.981631,
+    "description": "242-246 E 2nd Street (New Construction)"
+  },  
+  {
+    "lat": 40.722364,
+    "lng": -73.981675,
+    "description": "227-231 E 3rd Street (New Construction)"
+  },
 ]
