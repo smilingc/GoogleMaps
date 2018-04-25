@@ -103,12 +103,13 @@
     "lat": 40.725112,
     "lng": -73.982659,
      "description": "523 E 6th Street"
+     <img src="images/334.jpg" class="img-rounded" alt="Cinque Terre">
   },
   {
     "lat": 40.724861,
     "lng": -73.979070,
      "description": "334-336 E 8th Street"
-     <img src="images/334.jpg" class="img-rounded" alt="Cinque Terre"
+
   },
   {
     "lat": 40.721858,
