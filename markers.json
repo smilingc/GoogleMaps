@@ -3,6 +3,7 @@
     "lat": 40.723831, 
     "lng": -73.983689,
     "description": "<p>523 E 6th Street</p>"
+     "description": "<img src=/"..images/523.jpg\"><p>Oakwood</p>"
   },
   {
     "lat": 40.720380,
